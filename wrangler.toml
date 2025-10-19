@@ -1,0 +1,3 @@
+name = "vinylcollection-enricher"
+main = "index.js"
+compatibility_date = "2025-10-17"
