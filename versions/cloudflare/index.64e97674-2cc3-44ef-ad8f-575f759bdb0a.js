@@ -6,7 +6,7 @@
       "created_on": "2025-10-16T21:12:48.651591Z",
       "source": "wrangler",
       "author_id": "66560a90d3c2824f38d4d358ccef3484",
-      "author_email": "vinylkingsny@gmail.com",
+      "author_email": "records@vinylcollection.vip",
       "has_preview": true
     },
     "annotations": {
