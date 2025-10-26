@@ -101,7 +101,7 @@ export default {
 
 function initOut(flags) {
   return {
-    schema_version: "4.2.4",
+    schema_version: "4.3.0",
     timestamp: new Date().toISOString(),
     flags,
     canonical: {
@@ -225,7 +225,7 @@ function normalizeSeed(seed, out) {
 /* ------------------------ HTTP helpers --------------------------- */
 
 const UA =
-  "vinylcollection-enricher/4.2.44 (contact: https://vinylcollection.vip; bot: true)";
+  "vinylcollection-enricher/4.3.0 (contact: https://vinylcollection.vip; bot: true)";
 const JSON_H = { accept: "application/json", "user-agent": UA };
 
 async function GETjson(base, path, diagArr, qs = "") {
